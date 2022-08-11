@@ -8,6 +8,7 @@
  <a href="#Jonas-Rafael">Jonas Rafael</a> • 
  <a href="#Vitor-Gabriel">Vitor Gabriel</a> • 
  <a href="#Vitoria-Regina">Vitoria Regina</a> • 
+ <a href="#Nossos-Projetos">Nossos Projetos</a>
 </p>
 
 ## Sobre
@@ -37,3 +38,35 @@
 <br />
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonassMarquess)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-marques-b80554239/)
+
+
+<br/>
+
+### <p align=center>Vitor Gabriel<p/>
+
+<img align='right' src='https://avatars.githubusercontent.com/u/102758602?v=4' width="150px;">
+
+<p align=justify>Me chamo Vitor Gabriel, nascido em 08/01/2001. Sempre estive envolvido com a tecnologia, fiz meu primeiro curso de informática com 13 anos e desde então comecei outros cursos na área de ti porém nada relacionado a programação. Me graduei em gastronomia no ano de 2020 mas é um mercado que não me encontrei e não encontrei meu devido valor e foi aí que decidi me aprofundar na tecnologia, em 2021 iniciei uma nova faculdade, dessa vez de ADS(análise e desenvolvimento de sistema) e me inscrevi no start, onde em 2022 fui um dos selecionados para fazer parte desse imenso projeto.</p>
+
+<br />
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitorgabri3l)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gabriel-b42563218/)
+
+
+<br/>
+
+### <p align=center>Vitoria Regina<p/>
+
+<img align='left' src='https://avatars.githubusercontent.com/u/108552657?v=4' width="150px;">
+
+<p align=justify>Me chamo Vitoria Regina e tenho 22 anos, sou estagiaria de suporte de T.I trilhando o caminho da programação, curso ADS (analise e desenvolvimento de sistemas). Cheguei nessa área a pouco tempo procurando uma algo melhor e já me sinto em casa. Fico feliz que encontrei uma área que me acolhe, me da visão de crescimento e me interessa, já passei por algumas aréas como o RH (Recursos Humanos) mas não me encontrei muito. Através do programa START me interessei na área da programação e consegui ter uma visão mais ampla da programação em si, além de conhecer pessoas incriveis e ter diversas oportunidades. Espero que gostem do que criamos aqui.</p>
+
+<br />
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitorxst)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-regina-6b799b1ba/)
+
+<br/>
+
+## Nossos Projetos
+
+Lumi, é uma aplicação web que tem como foco ajudar você a encontrar aquele profissional, sempre com o foco em conectar quem precisa com quem sabe fazer. Acabando com seus problemas tanto na busca como na oferta de serviço de qualidade. 
