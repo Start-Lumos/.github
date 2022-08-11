@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
- <a href="##Sobre">Sobre</a> •
- <a href="###Dayvson-Lima">Dayvson Lima</a> •
- <a href="###Jonas-Rafael">Jonas Rafael</a> • 
- <a href="###Vitor-Gabriel">Vitor Gabriel</a> • 
- <a href="###Vitoria-Regina">Vitoria Regina</a> • 
+ <a href="#Sobre">Sobre</a> •
+ <a href="#Dayvson-Lima">Dayvson Lima</a> •
+ <a href="#Jonas-Rafael">Jonas Rafael</a> • 
+ <a href="#Vitor-Gabriel">Vitor Gabriel</a> • 
+ <a href="#Vitoria-Regina">Vitoria Regina</a> • 
 </p>
 
 ## Sobre
