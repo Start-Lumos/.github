@@ -16,7 +16,7 @@
  <a href="#Nossos-Projetos">Nossos Projetos</a>
 </p>
 
-## Sobre
+## ![link](https://user-images.githubusercontent.com/102249811/184334676-ed902c74-e1fc-44a8-828b-4c3eb1490767.png)  Sobre
 
 <p align=justify>O <b>Lumos</b> é um grupo composto por quatro programadores fascinados em desenvolvimento de aplicações web. A equipe foi formada aleatoriamente para o desenvolvimento do projeto final do Start fornecido pela Rede Cidadã, em 2022.</p>
 
@@ -72,7 +72,7 @@
 
 <br/>
 
-## Nossos Projetos
+## ![link](https://user-images.githubusercontent.com/102249811/184334676-ed902c74-e1fc-44a8-828b-4c3eb1490767.png) Nossos Projetos
 
 <img align='left' src="https://user-images.githubusercontent.com/102249811/184328694-712e0fe7-879b-4ab1-83f3-b0bdee5ca289.png" width='150px'>
 Lumi, é uma aplicação web que tem como foco ajudar você a encontrar aquele profissional, sempre com o foco em conectar quem precisa com quem sabe fazer. Acabando com seus problemas tanto na busca como na oferta de serviço de qualidade. <a href='https://github.com/Start-Lumos/lumi-front'>Clique aqui para conhecer</a>
