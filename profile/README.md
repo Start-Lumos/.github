@@ -1,3 +1,7 @@
+![Lumos doc](https://user-images.githubusercontent.com/102249811/184324166-21ab3ba3-a054-4693-b257-41ac5550a998.png)
+![LineLumos](https://user-images.githubusercontent.com/102249811/184326311-83b30258-127e-4b06-bd12-b5a638c207f2.png)
+
+
 <p align="center">
  Lumos
 </p>
@@ -69,4 +73,5 @@
 
 ## Nossos Projetos
 
+<img align='left' src="https://user-images.githubusercontent.com/102249811/184328694-712e0fe7-879b-4ab1-83f3-b0bdee5ca289.png" width='150px'>
 Lumi, é uma aplicação web que tem como foco ajudar você a encontrar aquele profissional, sempre com o foco em conectar quem precisa com quem sabe fazer. Acabando com seus problemas tanto na busca como na oferta de serviço de qualidade. 
