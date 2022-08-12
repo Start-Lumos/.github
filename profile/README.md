@@ -75,4 +75,4 @@
 ## Nossos Projetos
 
 <img align='left' src="https://user-images.githubusercontent.com/102249811/184328694-712e0fe7-879b-4ab1-83f3-b0bdee5ca289.png" width='150px'>
-Lumi, é uma aplicação web que tem como foco ajudar você a encontrar aquele profissional, sempre com o foco em conectar quem precisa com quem sabe fazer. Acabando com seus problemas tanto na busca como na oferta de serviço de qualidade. 
+Lumi, é uma aplicação web que tem como foco ajudar você a encontrar aquele profissional, sempre com o foco em conectar quem precisa com quem sabe fazer. Acabando com seus problemas tanto na busca como na oferta de serviço de qualidade. <a href='https://github.com/Start-Lumos/lumi-front'>Clique aqui para conhecer</a>
