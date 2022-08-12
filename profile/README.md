@@ -1,5 +1,6 @@
 ![Lumos doc](https://user-images.githubusercontent.com/102249811/184324166-21ab3ba3-a054-4693-b257-41ac5550a998.png)
-![LineLumos](https://user-images.githubusercontent.com/102249811/184326311-83b30258-127e-4b06-bd12-b5a638c207f2.png)
+![LineLumos](https://user-images.githubusercontent.com/102249811/184330542-24bd9f7f-b369-4460-ae37-d84455a3589c.png)
+
 
 
 <p align="center">
